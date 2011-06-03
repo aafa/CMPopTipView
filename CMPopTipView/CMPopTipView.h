@@ -85,7 +85,9 @@
 
 typedef enum {
 	PointDirectionUp = 0,
-	PointDirectionDown
+	PointDirectionDown,
+    PointDirectionLeft,
+    PointDirectionRigth
 } PointDirection;
 
 typedef enum {
